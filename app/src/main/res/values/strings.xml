@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson_1</string>
+    <string name="loginHintText">Введите ваш логин</string>
+    <string name="PasswordHintText">Введите ваш пароль</string>
+    <string name="welcomeText">Welcome to Geektech</string>
+    <string name="loginText">Войти</string>
+</resources>
